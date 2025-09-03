@@ -2,18 +2,17 @@
 
 ## About me:
 <picture> 
-  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="400px">
+  <img align="right" src="[https://clipart-library.com/img/2091643.gif](https://64.media.tumblr.com/b89097d271f2c4c4e7dd2c68bed551c8/73e9d67f48e6d396-96/s540x810/b2ecf20c953dff124e5a40ffc49511bc5ba15c24.gifv)" width="400px">
 </picture>
 <tr><td>
   <h4>Hey <a href=#><img src = "WAVE.gif" width = 20px></a>, I'm Abdelzaher Mostafa. I'm interested in Digital Design and Verification ⚡
 Senior-1 ECE Student 🎓 at the Faculty of Engineering, Mansoura University 🏛️.</h4>
 
-
-- 🎓 Undergraduate **Electronics and Communication Engineering Student (ECE)**
-- 💡 Specialized in **Digital IC Design and Verification**  
-- ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
-- 👨‍🏫 Vice and Instructor in **Digital Design**  
-- 🤝 I’m looking to collaborate on **Digital IC Design and Verification projects**
+ 
+- 💻 Former Trainee at the NTI Summer Internship on **"Digital Design Using FPGA"**
+- 💻 Completed a **Digital Design and Verification Diploma with** *Eng. Kareem Waseem*.
+- 🌱 I’m **Digital Design and Digital Verification** Enthusiast
+- 👥 I’m looking to collaborate on **Digital IC Design and Verification projects**
 
 
 - 📌 My Certificates: [**My Certificates**](https://drive.google.com/drive/folders/1wLnmo-zaktLcIwCR7eIdSk7qb3D9_7EX)
