@@ -39,7 +39,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
 
 ### 🧠 Languages:
-<p style="display: flex; gap: 12px; flex-wrap: wrap;">
+<p align="center">
   <a href="https://www.chipverify.com/" target="_blank" rel="noreferrer">
     <img src="verilog.png" alt="Verilog" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
@@ -63,7 +63,7 @@
   </a>
 </p>
 
-### 🛠 Tools:
+### 🛠 Tools & Platforms:
 <p style="display: flex; gap: 12px; flex-wrap: wrap;">
   <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
     <img src="https://hackaday.com/wp-content/uploads/2015/05/xi.jpg?w=600&h=600" alt="Vivado" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
