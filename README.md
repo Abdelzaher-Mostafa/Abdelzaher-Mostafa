@@ -1,6 +1,7 @@
 <h1 align="center"> Abdelzaher Mostafa </h1>
 
-## <picture><img src="Computer Network Internet GIF by Butlerm (1).gif?raw=true" height="50" width="50"></picture> **About Me**  
+## <picture><img src="Computer Network Internet GIF by Butlerm (1).gif?raw=true" height="50" width="50"></picture> 
+<table><th><h2 align="center">ABOUTME</h2></th>
 <picture> 
   <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
 </picture>
