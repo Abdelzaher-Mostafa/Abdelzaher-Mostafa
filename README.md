@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelzaher Mostafa </h1>
+<h1 align="center"> Abdelzaher Mostafa </h1>
 <h3 align="center">A passionate Digital IC Design & Verification Engineer</h3>
 
 ## About me:
