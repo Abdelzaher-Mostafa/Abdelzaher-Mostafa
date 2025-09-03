@@ -1,10 +1,8 @@
 <h1 align="center"> Abdelzaher Mostafa </h1>
 
-<code><img src="Art Loop GIF by xponentialdesign.gif" alt="ِABOU TME" width="60" height="60"/></code>
 
-
-
-
+<table><th><h2 align="center">ABOUTME.txt</h2></th>
+<table><th><h2 <a href=#><img src="Art Loop GIF by xponentialdesign.gif" height="60" width="60" /></a> </h2></th>
 
 
 
