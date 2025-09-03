@@ -65,7 +65,7 @@
     <img src="ModelSim.png" alt="ModelSim" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://eda.sw.siemens.com/en-US/ic/questa-one/design-solutions/lint/" target="_blank" rel="noreferrer">
-    <img src="Questa-Lint" alt="Questa Lint" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="Questa-Lint.png" alt="Questa Lint" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
