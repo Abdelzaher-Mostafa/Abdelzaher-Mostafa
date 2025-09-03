@@ -1,8 +1,5 @@
-<div align="center">
-  <a href=#>
-  <img src="ascii-art-text.png" alt="Abdelzaher Mostafa" width="75%" >
-    </a>
-</div>
+<h1 align="center"> Abdelzaher Mostafa></h1>
+
 
 
 ## <picture><img src="Art Loop GIF by xponentialdesign.gif?raw=true" width="50px"></picture> About Me
