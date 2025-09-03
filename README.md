@@ -86,6 +86,7 @@
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
+  <code><img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino IDE" width="40" height="40"/></code>
 </p>
 
 ### 💻 OS:
