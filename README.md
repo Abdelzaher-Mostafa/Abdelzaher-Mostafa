@@ -51,6 +51,9 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
+  <a href="https://www.chipverify.com/tutorials/systemverilog" target="_blank" rel="noreferrer">
+    <img src="SVicon.png" alt="SV" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+  </a>
 </p>
 
 ### 🛠 Tools:
