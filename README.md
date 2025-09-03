@@ -96,17 +96,7 @@ Senior-1 ECE Student 🎓 at the Faculty of Engineering, Mansoura University �
 
 ---
 
-&layout=compact&theme=tokyonight" height="180px"/>
-</p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelzaher-Mostafa&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelzaher-Mostafa
---- 
 ## 🏆 Achievements  
 - 🏳️ **Vice head & Instructor of Digital IC design at Breakin point**  February 2025 - Present  
 - 🏳️ **PR member at Breakin point** for November 2024 - Present
