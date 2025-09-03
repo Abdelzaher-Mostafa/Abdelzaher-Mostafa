@@ -13,7 +13,7 @@
 - 🤝 I’m looking to collaborate on **Digital IC Design and Verification projects**
 
 
-- 📌 My Certificates: [*My Certificates*](https://drive.google.com/drive/folders/1wLnmo-zaktLcIwCR7eIdSk7qb3D9_7EX)
+- 📌 My Certificates: [**My Certificates**](https://drive.google.com/drive/folders/1wLnmo-zaktLcIwCR7eIdSk7qb3D9_7EX)
 
 - 📄 My CV: [**CV**](https://drive.google.com/file/d/1iTrZAlm4sX4-ybmtKeU5pVz4rnus5max/view?usp=drivesdk)
 
