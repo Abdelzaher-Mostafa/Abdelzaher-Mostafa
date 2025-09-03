@@ -46,6 +46,9 @@
     <a href="https://www.chipverify.com/tutorials/systemverilog" target="_blank" rel="noreferrer">
     <img src="SVicon.jpg" alt="SV" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
+  <a href="#">
+    <img src="uvm.png" alt="UVM" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+  </a>
   <a href="https://www.nandland.com/vhdl/tutorials/" target="_blank" rel="noreferrer">
     <img src="https://stepik.org/media/cache/images/courses/94951/cover_QUUWIm9/2661f137ae94e2123128ed1144ce82ee.PNG" alt="VHDL" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
