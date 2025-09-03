@@ -6,17 +6,18 @@
   <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
 </picture>
 
-- ✨ Ex-Trainee at NTI Summer Internship *"Digital Design Using FPGA"*
+- 🎓 Undergraduate **Communication Engineering Student (ECE)**
+- 💡 Specialized in **Digital IC Design and Verification**  
+- ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
+- 👨‍🏫 Vice and Instructor in **Digital Design**  
+- 🤝 I’m looking to collaborate on **Digital IC Design and Verification projects**
 
-- 💻 I’m currently learning *Digital Design and Digital Verification*
-
-- 🤝 I’m looking to collaborate on *Digital IC Design and Verification projects*
 
 - 📌 My Certificates: [View here](https://drive.google.com/drive/folders/1wLnmo-zaktLcIwCR7eIdSk7qb3D9_7EX)
 
 - 📄 My CV: [View here](https://drive.google.com/file/d/1iTrZAlm4sX4-ybmtKeU5pVz4rnus5max/view?usp=drivesdk)
 
-- 📢 Reach me at: *abdelzahermostafamashal@Gmail.com*
+- 📧 Reach me at: **abdelzahermostafamashal@Gmail.com**
 
 ---
 
