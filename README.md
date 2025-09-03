@@ -1,10 +1,13 @@
 <h1 align="center"> Abdelzaher Mostafa </h1>
-<h3 align="center">A passionate Digital IC Design & Verification Engineer</h3>
 
 ## About me:
 <picture> 
   <img align="right" src="https://clipart-library.com/img/2091643.gif" width="400px">
 </picture>
+<tr><td>
+  <h4>Hey <a href=#><img src = "WAVE.gif" width = 20px></a>, I'm Abdelzaher Mostafa. I'm interested in Digital Design and Verification ⚡
+Senior-1 ECE Student 🎓 at the Faculty of Engineering, Mansoura University 🏛️.</h4>
+
 
 - 🎓 Undergraduate **Electronics and Communication Engineering Student (ECE)**
 - 💡 Specialized in **Digital IC Design and Verification**  
