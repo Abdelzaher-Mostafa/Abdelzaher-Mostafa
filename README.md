@@ -90,6 +90,15 @@
   <code><img src="proteus.png" alt="Proteus" width="45" height="45"/></code>
 </p>
 
+---
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelzaher-Mostafa&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelzaher-Mostafa&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
 ### 💻 OS:
 <p style="display: flex; gap: 12px;">
   <img src="https://www.pngkit.com/png/detail/207-2078597_windows-icon-png.png" width="55" height="55" alt="Windows" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
