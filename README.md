@@ -9,7 +9,8 @@
   <h4>Hey <a href=#><img src = "WAVE.gif" width = 20px></a>, I'm Abdelzaher Mostafa. I'm interested in Digital Design and Verification ⚡
 Senior-1 ECE Student 🎓 at the Faculty of Engineering, Mansoura University 🏛️.</h4>
 
-<a href=#><img align="center" src="GIF by National Geographic Channel.gif" height="400" width="300" /></a> 
+<a href=#><img align="right" src="Art Loop GIF by xponentialdesign.gif" width="50%" /></a> 
+
 - 💻 Former Trainee at the NTI Summer Internship on **"Digital Design Using FPGA"**
 - 💻 Completed a **Digital Design and Verification Diploma with** *Eng. Kareem Waseem*.
 - 🌱 I’m **Digital Design and Digital Verification** Enthusiast
