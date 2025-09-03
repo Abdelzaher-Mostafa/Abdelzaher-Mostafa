@@ -3,15 +3,16 @@
 <table>
   <tr>
     <th style="text-align: center;">
-      <h2 style="display: flex; align-items: center; gap: 10px; justify-content: center;">
+      <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
         <a href="#">
-          <img src="Art Loop GIF by xponentialdesign.gif" height="60" width="60" style="vertical-align: middle;">
+          <img src="Art Loop GIF by xponentialdesign.gif" height="60" width="60">
         </a>
-        ABOUT ME
-      </h2>
+        <h2 style="margin: 0;">ABOUT ME</h2>
+      </div>
     </th>
   </tr>
 </table>
+
 
 
 
