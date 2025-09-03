@@ -37,47 +37,47 @@
 ### 🧠 Languages:
 <p style="display: flex; gap: 12px; flex-wrap: wrap;">
   <a href="https://www.chipverify.com/" target="_blank" rel="noreferrer">
-    <img src="verilog.png" alt="Verilog" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="verilog.png" alt="Verilog" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
     <a href="https://www.chipverify.com/tutorials/systemverilog" target="_blank" rel="noreferrer">
-    <img src="SVicon.jpg" alt="SV" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="SVicon.jpg" alt="SV" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://www.nandland.com/vhdl/tutorials/" target="_blank" rel="noreferrer">
-    <img src="https://stepik.org/media/cache/images/courses/94951/cover_QUUWIm9/2661f137ae94e2123128ed1144ce82ee.PNG" alt="VHDL" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="https://stepik.org/media/cache/images/courses/94951/cover_QUUWIm9/2661f137ae94e2123128ed1144ce82ee.PNG" alt="VHDL" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
 </p>
 
 ### 🛠 Tools:
 <p style="display: flex; gap: 12px; flex-wrap: wrap;">
   <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
-    <img src="https://hackaday.com/wp-content/uploads/2015/05/xi.jpg?w=600&h=600" alt="Vivado" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="https://hackaday.com/wp-content/uploads/2015/05/xi.jpg?w=600&h=600" alt="Vivado" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://digilent.com/reference/programmable-logic/guides/vivado-hardware-manager" target="_blank" rel="noreferrer">
-    <img src="FPGA.png" alt="FPGA" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="FPGA.png" alt="FPGA" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://eda.sw.siemens.com/en-US/ic/questa/simulation/advanced-simulator/" target="_blank" rel="noreferrer">
-    <img src="QuestaSim.png" alt="QuestaSim" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="QuestaSim.png" alt="QuestaSim" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://www.microsemi.com/document-portal/doc_view/136363-modelsim-me-10-4c-tutorial-for-libero-soc-v11-7" target="_blank" rel="noreferrer">
-    <img src="ModelSim.png" alt="ModelSim" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="ModelSim.png" alt="ModelSim" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://eda.sw.siemens.com/en-US/ic/questa-one/design-solutions/lint/" target="_blank" rel="noreferrer">
-    <img src="Questa-Lint.png" alt="Questa Lint" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="Questa-Lint.png" alt="Questa Lint" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
 </p>
 
