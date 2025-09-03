@@ -3,10 +3,10 @@
 
 ## About me:
 <picture> 
-  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
+  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="400px">
 </picture>
 
-- 🎓 Undergraduate **Communication Engineering Student (ECE)**
+- 🎓 Undergraduate **Electronics and Communication Engineering Student (ECE)**
 - 💡 Specialized in **Digital IC Design and Verification**  
 - ✨ Ex-Trainee at NTI Summer Internship **"Digital Design Using FPGA"**
 - 👨‍🏫 Vice and Instructor in **Digital Design**  
