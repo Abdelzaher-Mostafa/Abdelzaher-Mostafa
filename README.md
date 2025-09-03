@@ -91,6 +91,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -99,6 +100,15 @@
 </p>
 
 ---
+
+## 🏆 Achievements  
+- 🏳️ **Vice head & Instructor of Digital IC design at Breakin point**  February 2025 - Present  
+- 🏳️ **PR member at Breakin point** for November 2024 - Present
+- 🏳️ **HR member at Starks** for November 2024 - March 2025
+
+
+---
+
 ### 💻 OS:
 <p style="display: flex; gap: 12px;">
   <img src="https://www.pngkit.com/png/detail/207-2078597_windows-icon-png.png" width="55" height="55" alt="Windows" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
