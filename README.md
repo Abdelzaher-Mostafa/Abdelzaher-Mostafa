@@ -1,10 +1,11 @@
 <div align="center">
   <a href=#>
-  <img src="MAGDY_AHMED.gif" alt="Magdy Ahmed" width="75%" >
+  <img src="ascii-art-text.png" alt="Abdelzaher Mostafa" width="75%" >
     </a>
 </div>
 
 
+----
 ----
 
 ## <picture><img src="Art Loop GIF by xponentialdesign.gif?raw=true" width="50px"></picture> About Me
