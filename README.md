@@ -83,18 +83,17 @@
 
 ---
 
-<tr>
-  <td>
-    <a href="#">
-      <img src="https://thumbs.gfycat.com/UnripeAdoredGrayreefshark-max-1mb.gif" align="left" width="100">
-    </a>
-    <h4 align="right">View Count</h4>
-    <a href="#">
-      <img src="https://profile-counter.glitch.me/Abdelzaher-Mostafa/count.svg" alt="View Count" width="200" align="right">
-    </a>
-  </td>
-</tr>
 
-<br><br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>👀 View Count</h3>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=Abdelzaher-Mostafa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr>
+
