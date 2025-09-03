@@ -39,6 +39,9 @@
   <a href="https://www.chipverify.com/" target="_blank" rel="noreferrer">
     <img src="verilog.png" alt="Verilog" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
+    <a href="https://www.chipverify.com/tutorials/systemverilog" target="_blank" rel="noreferrer">
+    <img src="SVicon.jpg" alt="SV" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
+  </a>
   <a href="https://www.nandland.com/vhdl/tutorials/" target="_blank" rel="noreferrer">
     <img src="https://stepik.org/media/cache/images/courses/94951/cover_QUUWIm9/2661f137ae94e2123128ed1144ce82ee.PNG" alt="VHDL" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
@@ -50,9 +53,6 @@
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
-  </a>
-  <a href="https://www.chipverify.com/tutorials/systemverilog" target="_blank" rel="noreferrer">
-    <img src="SVicon.jpg" alt="SV" width="40" height="40" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
 </p>
 
