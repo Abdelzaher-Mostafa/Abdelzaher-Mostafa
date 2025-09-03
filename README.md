@@ -1,10 +1,7 @@
 <h1 align="center"> Abdelzaher Mostafa </h1>
 
 
-
-<table><th><h2 <a href=#><img align="lift"src="Art Loop GIF by xponentialdesign.gif" height="60" width="60" /></a> </h2></th>
-<table><th><h2 align="center">ABOUT ME</h2></th>
-
+## <picture><img src="Art Loop GIF by xponentialdesign.gif?raw=true" width="50px"></picture> About Me
 
 
 <tr><td>
