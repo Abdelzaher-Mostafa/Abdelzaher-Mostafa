@@ -90,7 +90,7 @@
     </a>
     <h4 align="right">View Count</h4>
     <a href="#">
-      <img src="https://profile-counter.glitch.me/Ahmed-Yasser1/count.svg" alt="View Count" width="200" align="right">
+      <img src="https://profile-counter.glitch.me/Abdelzaher-Mostafa/count.svg" alt="View Count" width="200" align="right">
     </a>
   </td>
 </tr>
