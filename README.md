@@ -1,16 +1,15 @@
 <h1 align="center"> Abdelzaher Mostafa </h1>
 
-## <picture><img src="Computer Network Internet GIF by Butlerm (1).gif?raw=true" height="50" width="50"></picture> 
-<table><th><h2 align="center">ABOUTME</h2></th>
-<picture> 
-  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
-</picture>
+## <picture><img src="Art Loop GIF by xponentialdesign.gif?raw=true" height="50" width="50"></picture> About Me  
+
+
 
 
 <tr><td>
   <h4>Hey <a href=#><img src = "WAVE.gif" width = 20px></a>, I'm Abdelzaher Mostafa. I'm interested in Digital Design and Verification ⚡
 Senior-1 ECE Student 🎓 at the Faculty of Engineering, Mansoura University 🏛️.</h4>
 
+<a href=#><img src="viceland GIF by CYBERWAR.gif" alt="Tech" align="right" width="50%"></a>
  
 - 💻 Former Trainee at the NTI Summer Internship on **"Digital Design Using FPGA"**
 - 💻 Completed a **Digital Design and Verification Diploma with** *Eng. Kareem Waseem*.
