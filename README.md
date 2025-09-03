@@ -1,9 +1,10 @@
 <h1 align="center"> Abdelzaher Mostafa </h1>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="Art Loop GIF by xponentialdesign.gif" height="60" width="60" alt="About Me">
-  <h2 style="margin: 0;">ABOUT ME</h2>
+<div style="display: flex; align-items: center;">
+  <img src="Art Loop GIF by xponentialdesign.gif" style="width: 60px; height: 60px;" alt="About Me">
+  <span style="font-size: 24px; margin-left: 10px;">ABOUT ME</span>
 </div>
+
 
 
 
