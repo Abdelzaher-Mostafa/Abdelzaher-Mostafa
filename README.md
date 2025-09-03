@@ -1,6 +1,6 @@
 <h1 align="center"> Abdelzaher Mostafa </h1>
 
-## <picture><img src="Art Loop GIF by xponentialdesign.gif?raw=true" height="50" width="50"></picture> About Me  
+## <picture><img src="Art Loop GIF by xponentialdesign.gif?raw=true" height="60" width="60"></picture> About Me  
 
 
 
