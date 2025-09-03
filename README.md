@@ -4,6 +4,10 @@
   <img src="Art Loop GIF by xponentialdesign.gif" style="width: 60px; height: 60px;" alt="About Me">
   <span style="font-size: 24px; margin-left: 10px;">ABOUT ME</span>
 </div>
+<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+  <span style="font-size: 24px;">ABOUT ME</span>
+</div>
+
 
 
 
