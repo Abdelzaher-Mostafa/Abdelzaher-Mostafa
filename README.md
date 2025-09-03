@@ -2,8 +2,9 @@
 
 ## About me:
 <picture> 
-  <img align="right" src="https://www.tumblr.com/evil-in-itself/764307778747629568?source=share" width="300px">
+  <img align="right" src="https://clipart-library.com/img/2091643.gif" width="300px">
 </picture>
+
 
 <tr><td>
   <h4>Hey <a href=#><img src = "WAVE.gif" width = 20px></a>, I'm Abdelzaher Mostafa. I'm interested in Digital Design and Verification ⚡
