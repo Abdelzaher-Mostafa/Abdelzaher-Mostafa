@@ -64,7 +64,7 @@
 </p>
 
 ### 🛠 Tools & Platforms:
-<p style="display: flex; gap: 12px; flex-wrap: wrap;">
+<p align="center">
   <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
     <img src="https://hackaday.com/wp-content/uploads/2015/05/xi.jpg?w=600&h=600" alt="Vivado" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
@@ -86,7 +86,8 @@
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="45" height="45" style="box-shadow: 0 2px 5px rgba(0,0,0,0.2); border-radius: 8px;" />
   </a>
-  <code><img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino IDE" width="40" height="40"/></code>
+  <code><img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino IDE" width="45" height="45"/></code>
+  <code><img src="proteus.png" alt="Proteus" width="45" height="45"/></code>
 </p>
 
 ### 💻 OS:
