@@ -14,17 +14,17 @@ Senior-1 ECE Student 🎓 at the Faculty of Engineering, Mansoura University �
 
 <a href=#><img align="right" src="Computer Technology GIF by Matthew Butler.gif" width="30%" /></a> 
 
-- 💻 Former Trainee at the NTI Summer Internship on **"Digital Design Using FPGA"**
-- 💻 Completed a **Digital Design and Verification Diploma with** *Eng. Kareem Waseem*.
-- 🌱 I’m **Digital Design and Digital Verification** Enthusiast
+> 💻 Former Trainee at the NTI Summer Internship on **"Digital Design Using FPGA"**
+> 💻 Completed a **Digital Design and Verification Diploma with** *Eng. Kareem Waseem*.
+> 🌱 I’m **Digital Design and Digital Verification** Enthusiast
   > 👥 I’m looking to collaborate on **Digital IC Design and Verification projects**
 
 
-- 📌 My Certificates: [**My Certificates**](https://drive.google.com/drive/folders/1wLnmo-zaktLcIwCR7eIdSk7qb3D9_7EX)
+> 📌 My Certificates: [**My Certificates**](https://drive.google.com/drive/folders/1wLnmo-zaktLcIwCR7eIdSk7qb3D9_7EX)
 
-- 📄 My CV: [**CV**](https://drive.google.com/file/d/1iTrZAlm4sX4-ybmtKeU5pVz4rnus5max/view?usp=drivesdk)
+> 📄 My CV: [**CV**](https://drive.google.com/file/d/1iTrZAlm4sX4-ybmtKeU5pVz4rnus5max/view?usp=drivesdk)
 
-- 📧 Reach me at: **abdelzahermostafamashal@Gmail.com**
+> 📧 Reach me at: **abdelzahermostafamashal@Gmail.com**
 
 ---
 
